@@ -8,13 +8,10 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Saul
+ * @author saul
  */
 public class Ejemplo2 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Ejemplo2
-     */
     public Ejemplo2() {
         initComponents();
     }
